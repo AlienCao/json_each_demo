@@ -15,3 +15,6 @@ function text(){
   }  
 }  
 </script>
+$.each(object,function(i,item){
+  
+});
